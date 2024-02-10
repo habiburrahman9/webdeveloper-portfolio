@@ -154,3 +154,33 @@ main section{
      font-size: 30px;
     font-weight: 700;
 }
+
+.item-title{
+    color: blue;
+    font-family: open sans;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.resumi-container{
+    display: flex;
+    gap: 50px;
+}
+
+.resumi-item-instute{
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.resumi-item-descriotion, .resumi-item-instute{
+    color: rgba(228, 100, 20, 0.753);
+}
+
+.resumi-container{
+    margin: 30px;
+}
+
+.dowenlodw-cv{
+    text-align: center;
+    margin-top: 50px;
+    
+}
